@@ -109,6 +109,7 @@ ul.nav.justify-content-start {
     color: white;
     padding: 35px;
     transition: 0.3s;
+    border-radius: 30px;
 }
 .menu .block:hover .info{
     opacity: 1;    
