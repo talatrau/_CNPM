@@ -26,7 +26,7 @@ a.block {
 }
 .font-aboutus{
     font-family: 'Dancing Script', cursive;
-    font-size: 60px;
+    font-size: 100px;
 }
 
 /*test*/
@@ -39,6 +39,9 @@ nav.navbar.navbar-expand-sm.navbar-dark {
 .navbar.navbar-expand-sm.navbar-dark {
     position: absolute;
     top: 0%;    
+}
+.banner nav.navbar.navbar-expand-sm.navbar-dark {    
+    font-size: 20px;
 }
 
 

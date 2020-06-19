@@ -23,6 +23,7 @@ nav.navbar.navbar-expand-lg.navbar-dark {
     background: #ffffff;
     border-radius: 28px;
     color: black;
+    font-size: 25px;
 }
 .banner .navbar-brand:hover{
     color: red;
@@ -74,7 +75,6 @@ nav.navbar.navbar-expand-lg.navbar-dark {
 }
 .about-us .title-zone {
     display: block;
-    height: 80px;
     margin-bottom: 20px;
 }
 
