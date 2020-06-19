@@ -44,4 +44,29 @@ nav.navbar.navbar-expand-sm.navbar-dark {
     font-size: 20px;
 }
 
+ul.social-links{
+    display: flex;
+    max-width: 50%;
+    justify-content: space-evenly;
+    margin: auto;
+    padding-left: 0px;
+}
 
+ul.social-links li {
+    list-style: none;
+    font-size: 25px;
+}
+footer.my-footer {
+    width: 100%;
+    background: #232121;
+}
+.my-footer .info{
+    margin: auto;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 5px;
+    padding-top: 15px;
+    max-width: 50%;
+    
+}
