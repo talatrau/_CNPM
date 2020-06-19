@@ -1,0 +1,14 @@
+.banner{
+    position: relative;
+}
+.banner-img{
+    width: 100%;    
+    height: auto;
+}
+.navbar.navbar-expand-lg.navbar-dark {
+    position: absolute;
+    top: 0%;
+}
+a.block {
+    display: inline-block;
+}
